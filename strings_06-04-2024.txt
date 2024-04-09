@@ -1,0 +1,40 @@
+1.What method is used to convert an integer to a string in Java?
+a) String.valueOf()
+b) Integer.toString()
+c) int.toString()
+d)parseToString()
+
+Answer: a
+
+2.Select all the classes that extend the String class
+a) StringBuffer
+b) StringBuilder
+c) StringWriter
+d) None
+
+Answer: d
+
+3.What is the difference between StringBuilder and StringBuffer in Java? 
+a) StringBuilder is mutable, while StringBuffer is immutable.
+b) StringBuilder is not a thread-safe, while StringBuffer is a thread-safe.
+c) StringBuilder is synchronized, while StringBuffer is not synchronized.
+d) There is no difference; they can be used interchangeably.
+
+Answer: b
+
+4. What happens when two String objects are concatenated using the + operator in Java? 
+a) A new String object is created.
+b) The first String object is modified.
+c) The second String object is modified.
+d) The original String objects remain unchanged.
+
+Answer: a
+
+
+5.Which method is used to convert a string to uppercase in Java? 
+a) toLowerCase()
+b) toUpperCase()
+c) trim()
+d) replace()
+
+Answer: b
